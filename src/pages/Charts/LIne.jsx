@@ -1,9 +1,9 @@
 import React from 'react'
 
-const LIne = () => {
+const Line = () => {
   return (
-    <div>LIne</div>
+    <div>Line</div>
   )
 }
 
-export default LIne
+export default Line
